@@ -1,0 +1,6 @@
+10    = strike
+9 + 1 = spare
+0     = scratch
+
+if strike on 10, 2 extra balls
+if spare  on 10, 1 extra ball
